@@ -34,6 +34,9 @@ Tam, Clifton    -A00815149
 Change Log
 **************
 
+v1 - enabled hooks
+
+
 *****
 Setup
 *****
