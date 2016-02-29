@@ -23,6 +23,17 @@ Fork this project.
 Clone it locally.
 Enhance it per the tutorial
 
+
+**************
+Team Members
+**************
+Godia, Ralph    A00914300
+Tam, Clifton    A00815149
+
+**************
+Change Log
+**************
+
 *****
 Setup
 *****
