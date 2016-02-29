@@ -36,7 +36,7 @@ Change Log
 
 v1 - enabled hooks
 v2 - updated my_controller and _template
-
+v3 - updated database
 
 *****
 Setup
