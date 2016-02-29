@@ -34,9 +34,6 @@ Tam, Clifton    -A00815149
 Change Log
 **************
 
-
-
-
 *****
 Setup
 *****
